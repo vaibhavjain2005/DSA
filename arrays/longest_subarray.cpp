@@ -13,6 +13,12 @@ int longest_subarray(vector<int>a,int k){
 }
 return len;
 }  
+int longest_subarray(vector<int>a,int k){
+    int s=0,len=0;
+    for(int i=0)
+}
+return len;
+}  
 int main(){
    int n;
    cin>>n;
