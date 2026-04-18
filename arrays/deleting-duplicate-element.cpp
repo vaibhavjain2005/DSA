@@ -1,7 +1,7 @@
 #include<iostream>
 
 int main(){
-    vector<int>a;
+    vector<int>;
     int n;
     while(true){
         scanf("%d",&n);

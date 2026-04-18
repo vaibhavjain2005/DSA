@@ -1,0 +1,17 @@
+{
+    "makabhosdaAagSoundError.volume": 1,
+    "makabhosdaAagSoundError.errorPatterns": [
+        "error:",
+        "Error:",
+        "ERROR:",
+        "fail:",
+        "FAIL:",
+        "Failed",
+        "fatal:",
+        "FATAL:",
+        "Exception",
+        "Traceback",
+        "command not found",
+        "No such file"
+    ]
+}
